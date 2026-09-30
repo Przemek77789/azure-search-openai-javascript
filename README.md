@@ -36,7 +36,7 @@ urlFragment: azure-search-openai-javascript
 - [Using a different backend](#using-a-different-backend)
 - [Productionizing](#productionizing)
 - [Clean up](#clean-up)
-- [Resources](#resources)
+- [Resources](#resources
   - [Note](#note)
   - [FAQ](#faq)
   - [Troubleshooting](#troubleshooting)
